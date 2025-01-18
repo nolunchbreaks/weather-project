@@ -26,15 +26,24 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
 - **Language:** Python 3.x
 - **Cloud Provider:** AWS (S3)
 - **External API:** OpenWeather API
+
 - **Dependencies:** 
   - boto3 (AWS SDK)
   - python-dotenv
   - requests
 
+ ![https___dev-to-uploads s3 amazonaws com_uploads_articles_nc6u18wd7vwuqxgjuo9n](https://github.com/user-attachments/assets/9c23d90e-2d40-470b-811f-5e1e615faf41)
+
+ ![Screenshot (26)](https://github.com/user-attachments/assets/a9e91f31-ecd8-4a5a-a9ca-3545c6deaa4d)
+
+
+-- Special thanks to Deshae Lydia (Shae in the cloud) for this project and making it Possible
+ 
 ```markdown
 ## Project Structure
 weather-dashboard/
   src/
+![Screenshot (26)](https://github.com/user-attachments/assets/64c1d197-bb2f-4f97-b8e8-a1b963b3fe09)
     __init__.py
     weather_dashboard.py
   tests/
@@ -82,4 +91,3 @@ Create automated testing
 Set up CI/CD pipeline
 =======
 # weather-project
-- Special thanks to Deshae Lydia (Shae in the cloud) for this project and making it Possible
