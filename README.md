@@ -82,4 +82,4 @@ Create automated testing
 Set up CI/CD pipeline
 =======
 # weather-project
-
+- Special thanks to Deshae Lydia (Shae in the cloud) for this project and making it Possible
