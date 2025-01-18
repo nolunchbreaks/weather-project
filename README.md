@@ -57,12 +57,12 @@ AWS_BUCKET_NAME=your_bucket_name
 
 4.Configure AWS credentials:
 bashCopyaws configure
-![https___dev-to-uploads s3 amazonaws com_uploads_articles_nc6u18wd7vwuqxgjuo9n](https://github.com/user-attachments/assets/7a894b6c-9bf8-461e-8b49-54b5396dd3da)
+
 
 5. Run the application:
 python src/weather_dashboard.py
 
-![Screenshot (26)](https://github.com/user-attachments/assets/8a0e2055-c249-4e06-8dee-ef2863e8f2f9)
+
 
 What I Learned
 
