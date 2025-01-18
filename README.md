@@ -43,7 +43,7 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
 ## Project Structure
 weather-dashboard/
   src/
-![Screenshot (26)](https://github.com/user-attachments/assets/64c1d197-bb2f-4f97-b8e8-a1b963b3fe09)
+
     __init__.py
     weather_dashboard.py
   tests/
