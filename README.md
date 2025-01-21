@@ -31,13 +31,14 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
   - boto3 (AWS SDK)
   - python-dotenv
   - requests
+# Special thanks to DeShae Lyda(Shaeinthecloud) for making this project possible
 
  ![https___dev-to-uploads s3 amazonaws com_uploads_articles_nc6u18wd7vwuqxgjuo9n](https://github.com/user-attachments/assets/9c23d90e-2d40-470b-811f-5e1e615faf41)
 
  ![Screenshot (26)](https://github.com/user-attachments/assets/a9e91f31-ecd8-4a5a-a9ca-3545c6deaa4d)
 
 
--- Special thanks to Deshae Lydia (Shae in the cloud) for this project and making it Possible
+
  
 ```markdown
 ## Project Structure
